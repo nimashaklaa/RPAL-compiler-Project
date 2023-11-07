@@ -24,4 +24,4 @@ CSElement:: CSElement(string mVal, int mIndex, string mPar1, int mparEnv) {
     isTau = false;
     type = GRAMMAR_RULE;
 }
-//hi
+//h
