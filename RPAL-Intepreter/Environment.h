@@ -5,7 +5,7 @@
 
 using namespace std;
 
-#ifndef ENV_H_INCLUDED
+#ifndef ENV_H_INCLUDED 
 #define ENV_H_INCLUDED
 
 class Environment {
@@ -34,6 +34,6 @@ public:
 
 };
 
-#endif	// Close ENV_H_INCLUDED
+#endif	// Close ENV_H_INCLUDEDs
 
 
